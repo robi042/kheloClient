@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441023679994",
+    "project_id": "newandroid---ga4",
+    "storage_bucket": "newandroid---ga4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441023679994:android:88acffe411728b67f6a843",
+        "android_client_info": {
+          "package_name": "code.fortomorrow.kheloNow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441023679994-ot15o4gc6r5kg65pkh43dooc1t8famfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEaC5LM6WVnJH4sFFiXlL8EKP2x3A3FOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441023679994-ot15o4gc6r5kg65pkh43dooc1t8famfk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

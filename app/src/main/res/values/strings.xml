@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Khelo</string>
+    <string name="forgot" translatable="false"><u>Forgot Password?</u></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="room_code_time">ম্যাচ শুরু হওয়ার ৫ থেকে ৭ মিনিট আগে রুম আইডি দেওয়া হয়</string>
+    <string name="insufficient_balance">You don\'t have sufficient balance</string>
+    <string name="wrong_number">ভুল নাম্বার থেকে অ্যাড মানি রিকোয়েস্ট দিচ্ছেন</string>
+    <string name="status_ban">আপনাকে ব্যান করা হয়েছে। একাউন্ট পুনরায় সচল করার জন্য সাপোর্টে যোগাযোগ করুন</string>
+    <string name="something_wrong">Something went wrong</string>
+    <string name="notestring">Note- Players have a permission to change slots in game</string>
+    <string name="room_details_message">খেলা শুরুর ৫-৭ মিনিট আগে রুম ডিটেইলস দেয়া হবে</string>
+    <string name="select_one_team">একটি টিম সিলেক্ট করতে হবে</string>
+    <string name="alert_message">সতর্ক বার্তা</string>
+    <string name="qoute_text">কমপক্ষে চার জন প্লেয়ার নিয়ে জয়েন করতে হবে</string>
+    <string name="charge">**১০ টাকা উইথড্র চার্জ প্রযোজ্য**</string>
+    <string name="minimum_withdraw">কমপক্ষে ১০০ টাকা উইথড্র করতে হবে</string>
+    <string name="mobile_recharge">**পেমেন্টের জন্য মোবাইল রিচার্জ প্রযোজ্য নয়**</string>
+    <string name="withdraw_rule">শুধু উইনিং এমাউন্ট উইথড্র করা যাবে</string>
+    <string name="add_money_note">পেমেন্ট ভেরিফাই এর পূর্বে টাকা পাঠিয়েছেন কিনা চেক করে নিন, নতুবা আপনার রিকোয়েস্ট বাতিল করা হবে</string>
+    <string name="share_refer_link">Share your referral link and invite\nyour friends for more earn!!</string>
+    <string name="slot_bonus">একই টাইম একসাথে সব কটি স্লট সিলেক্ট করলে একটি এক্সট্রা প্লেয়ার নিতে পারবেন</string>
+    <string name="not_joined">আপনি এই ম্যাচে জয়েন করেননি</string>
+    <string name="room_code_not_available">" রুম কোড  দেয়া  হয়নি"</string>
+    <string name="room_password_not_available">" রুম  পাসওয়ার্ড এখনো দেয়া হয়নি"</string>
+    <string name="server_maintenance">Server is under maintenance</string>
+    <!--<string name="add_money_note">*Make sure you have send the money before verify payment otherwise you request will be terminated</string>-->
+</resources>
